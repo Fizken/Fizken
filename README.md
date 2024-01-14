@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fizken
 - 👀 I’m interested in web dev,programming and IT-Security
-- 🌱 I’m currently learning network and IT-Security,python and SQL-databases
+- 🌱 I’m currently learning web-dev and MS SQL Server
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
