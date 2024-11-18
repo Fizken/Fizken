@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fizken
-- 👀 I’m interested in web dev,python, MS SQL and data analytics
-- 🌱 I’m currently learning  MS SQL Server administration
+- 👀 I’m interested in web dev,currently learning HTML, CSS, Javacsript and jQuery. Also stepping into node.js and react later on. 
+- 🌱 I’m currently working full time as a DBA in a MS SQL high availability cluster. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
